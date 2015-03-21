@@ -13,6 +13,6 @@ My role was to teach the MORSE simulator to the students and help them during th
 
 #### More reading:
 - [Presentation of the project](https://www.ensta-bretagne.fr/jaulin/mer2015_projet_start.pdf): [Luc Jaulins](https://www.ensta-bretagne.fr/jaulin/) instructions about the project.
-- [Instructions](http://nicolaje.github.io/morse-scout): my presentation of MORSE to the students and the instructions to build their simulations.
+- [Instructions](http://nicolaje.github.io/morse-scout): my presentation of MORSE to the students and the instructions to build their simulation.
 - [Video](http://youtu.be/ATPabRHz0LA): a video (in French) presenting the project
 - [Report](https://www.ensta-bretagne.fr/jaulin/mer2015_projet.pdf): the final report (in French) written by the students.
